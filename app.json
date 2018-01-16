@@ -1,0 +1,18 @@
+{
+  "name": "Red-DiscordBot",
+  "scripts": {
+  },
+  "env": {
+    "PREFIX": "!"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
